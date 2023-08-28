@@ -16,7 +16,7 @@ Transform your digital images with this color palette reduction tool. Utilizing 
 ## Getting Started
 
 1. **Jupyter Notebook**:
-    - A step-by-step guide with visualizations.
+    - A step-by-step guide with explanations and tips for usage.
     - Perfect for understanding the underlying process and immediate results.
 
 2. **Standalone Script**:
