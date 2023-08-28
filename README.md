@@ -2,7 +2,7 @@
 ## Overview
 Transform your digital images with this color palette reduction tool. Utilizing the power of unsupervised learning (KMeans clustering), this tool not only reduces the color palette of images but also creates a unique, screen-print-like effect, perfect for design enthusiasts and artists.
 
-![Before and After Example](path_to_your_image_here.jpg)  
+![Before and After Example](Images/example.jpg)  
 *Example: Before and after using the Image Color Palette Reducer.*
 
 ## Key Features
