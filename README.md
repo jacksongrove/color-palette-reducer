@@ -26,5 +26,5 @@ Transform your digital images with this color palette reduction tool. Utilizing 
 ### Installation and Setup
 
 ```bash
-git clone [YOUR REPOSITORY LINK HERE]
+git clone https://github.com/jacksongrove/color-palette-reducer.git
 pip install -r requirements.txt
